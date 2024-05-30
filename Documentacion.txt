@@ -1,0 +1,3 @@
+-- Aqui se ira documentando el codigo en lenguaje de especificacion de cada funcion principal y sus funciones auxiliares.
+
+
