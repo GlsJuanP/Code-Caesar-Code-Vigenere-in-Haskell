@@ -1,6 +1,13 @@
 module Caesar where
 import Data.Char
 
+--Autores:
+
+--Rutger, Pablo
+--Batelli, Matias
+--Bejarano, Kevin
+-- Gleiss, Juan
+
 
 -- Codigo Caesar
 

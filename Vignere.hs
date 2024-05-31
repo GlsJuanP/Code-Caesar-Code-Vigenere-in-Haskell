@@ -3,6 +3,13 @@ module Vignere where
 import Caesar
 import Data.Char
 
+--Autores:
+
+--Rutger, Pablo
+--Batelli, Matias
+--Bejarano, Kevin
+-- Gleiss, Juan
+
 
 -- EJ 1
 
